@@ -1,4 +1,4 @@
-# Cyclistic - A bike Share Company
+# 🚴 Cyclistic - A bike Share Company
 
 
 In this project, a set of business tasks are to be completed for Cyclistic, a fictional bike-share company in Chicago, aimed at maximizing annual memberships. With 5824 bikes across 692 stations, Cyclistic offers flexible pricing plans targeting the conversion of casual riders into annual members for future growth. The goal is to analyze rider usage patterns, identify reasons for casual riders to opt for annual memberships, and explore digital media strategies to influence their decisions. By leveraging historical data, the project aims to align marketing strategies with the objective of maximizing annual memberships and ensuring Cyclistic's success in the competitive bike-share market. Through comprehensive data analysis and strategic marketing initiatives, the project seeks to capitalize on Cyclistic's existing customer base while attracting new riders, ultimately driving long-term sustainability and profitability for the company.
